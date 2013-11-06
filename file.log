@@ -1,0 +1,1978 @@
+[9 September 2013 10:07:47] Task: Launching - Company Yield-Man - V7.0.12
+
+TEMP_SERVER_PROFILE loaded (C:\Users\Set\Documents\TEMP_PROFILES\ServerProfile)
+
+[9 September 2013 10:08:09] [Case 6451] - SYA alarm is expired. Compute && Manage SYL/SBL limits...
+
+[9 September 2013 10:08:09] [YM Integration Training 102] - Task was disabled. [Database Partition Fun not connected]
+
+[9 September 2013 10:08:09] [SYA Task 1] - SYA alarm is expired. Compute && Manage SYL/SBL limits...
+
+[9 September 2013 10:08:09] [YM Integration Training 103] - Task was disabled. [Database Partition Fun not connected]
+
+[9 September 2013 10:08:09] [Monitor Spec Cpk Integration 103] - Task was disabled. [Database Partition Fun not connected]
+
+[9 September 2013 11:08:46] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_R1_B2_01.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_R1_B2_01.std
+
+[9 September 2013 11:08:49] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_PRE.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_PRE.std
+
+[9 September 2013 11:08:52] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_EQC_1ST.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_EQC_1ST.std
+
+[9 September 2013 11:08:52] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1725.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1725.std
+
+[9 September 2013 11:08:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_RT1_0501_2150.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_RT1_0501_2150.std
+
+[9 September 2013 11:08:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1505.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1505.std
+
+[9 September 2013 11:08:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_1ST_0501_2125.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_1ST_0501_2125.std
+
+[9 September 2013 11:08:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_PRETEST_0501_2315.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_PRETEST_0501_2315.std
+
+[9 September 2013 11:08:56] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_1ST_0501_1740.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_1ST_0501_1740.std
+
+[9 September 2013 11:08:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_EQC_RT1_0503_0540.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_EQC_RT1_0503_0540.std
+
+[9 September 2013 11:09:17] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_R1_B2_01.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_R1_B2_01.std
+
+[9 September 2013 11:09:19] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_PRE.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_PRE.std
+
+[9 September 2013 11:09:21] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_EQC_1ST.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_EQC_1ST.std
+
+[9 September 2013 11:09:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_EQC_1ST_0503_0515.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_EQC_1ST_0503_0515.std
+
+[9 September 2013 11:09:23] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_1ST_0503_0430.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_1ST_0503_0430.std
+
+[9 September 2013 11:09:24] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040233X_N3N488_PRETEST_0501_0955.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040233X_N3N488_PRETEST_0501_0955.std
+
+[9 September 2013 11:09:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040233X_N3N488_R1_BIN345_1_0501_1255.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040233X_N3N488_R1_BIN345_1_0501_1255.std
+
+[9 September 2013 11:09:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040233X_N3N488_EQC_RT1_0501_1440.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040233X_N3N488_EQC_RT1_0501_1440.std
+
+[9 September 2013 11:09:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040233X_N3N488_EQC_1ST_0501_1400.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040233X_N3N488_EQC_1ST_0501_1400.std
+
+[9 September 2013 11:09:28] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040233X_N3N488_1ST_0501_1011.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040233X_N3N488_1ST_0501_1011.std
+
+[9 September 2013 11:10:17] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_R1_B2_01.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_R1_B2_01.std
+
+[9 September 2013 11:10:19] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_PRE.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_PRE.std
+
+[9 September 2013 11:10:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_EQC_1ST.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_EQC_1ST.std
+
+[9 September 2013 11:10:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_PRETEST_0430_0250.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_PRETEST_0430_0250.std
+
+[9 September 2013 11:10:23] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_EQC_RT2_0430_1725.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_EQC_RT2_0430_1725.std
+
+[9 September 2013 11:10:23] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_EQC_RT1_0430_1520.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_EQC_RT1_0430_1520.std
+
+[9 September 2013 11:10:24] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_EQC_1ST_0430_1705.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_EQC_1ST_0430_1705.std
+
+[9 September 2013 11:10:24] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_EQC_1ST_0430_1635.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_EQC_1ST_0430_1635.std
+
+[9 September 2013 11:10:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_4TH_0430_1230.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_4TH_0430_1230.std
+
+[9 September 2013 11:10:29] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_R1_BIN345_1_0430_1400.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_R1_BIN345_1_0430_1400.std
+
+[9 September 2013 11:11:17] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_R1_B2_01.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_R1_B2_01.std
+
+[9 September 2013 11:11:19] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_PRE.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_PRE.std
+
+[9 September 2013 11:11:21] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_EQC_1ST.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_EQC_1ST.std
+
+[9 September 2013 11:11:24] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_3RD_0430_1000.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_3RD_0430_1000.std
+
+[9 September 2013 11:11:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_1ST_0430_0310.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_1ST_0430_0310.std
+
+[9 September 2013 11:11:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040231X_N3N488_R1_BIN345_1_0430_2100.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040231X_N3N488_R1_BIN345_1_0430_2100.std
+
+[9 September 2013 11:11:27] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040231X_N3N488_PRETEST_0430_2000.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040231X_N3N488_PRETEST_0430_2000.std
+
+[9 September 2013 11:11:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 11:11:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040231X_N3N488_FT1_PRETEST_0430_1855.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040231X_N3N488_FT1_PRETEST_0430_1855.std
+
+[9 September 2013 11:11:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040231X_N3N488_EQC_RT1_0430_2140.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040231X_N3N488_EQC_RT1_0430_2140.std
+
+[9 September 2013 11:12:17] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_R1_B2_01.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_R1_B2_01.std
+
+[9 September 2013 11:12:19] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_PRE.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_PRE.std
+
+[9 September 2013 11:12:21] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_EQC_1ST.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_EQC_1ST.std
+
+[9 September 2013 11:12:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040231X_N3N488_EQC_1ST_0430_2110.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040231X_N3N488_EQC_1ST_0430_2110.std
+
+[9 September 2013 11:12:23] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040230X_N3N488_PRETEST_0501_2235.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040230X_N3N488_PRETEST_0501_2235.std
+
+[9 September 2013 11:12:24] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040231X_N3N488_1ST_0430_2010.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040231X_N3N488_1ST_0430_2010.std
+
+[9 September 2013 11:12:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040230X_N3N488_EQC_RT1_0503_0315.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040230X_N3N488_EQC_RT1_0503_0315.std
+
+[9 September 2013 11:12:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040230X_N3N488_EQC_1ST_0503_0245.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040230X_N3N488_EQC_1ST_0503_0245.std
+
+[9 September 2013 11:12:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Validation error: Found tests with the same test number and different test name: test number 1001 (CONT_FWD_T4) from TSR record.
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040230X_N3N488_1ST_0503_0115.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040230X_N3N488_1ST_0503_0115.std
+
+[9 September 2013 11:12:29] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('NAS943P00','NAS943P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_PRE_2011-11-24_12.48.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_PRE_2011-11-24_12.48.00.std
+
+[9 September 2013 11:15:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_R1_B2_01.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_R1_B2_01.std
+
+[9 September 2013 11:15:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_PRE.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_PRE.std
+
+[9 September 2013 11:15:38] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_EQC_1ST.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_EQC_1ST.std
+
+[9 September 2013 11:15:41] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1725.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1725.std
+
+[9 September 2013 11:15:42] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_RT1_0501_2150.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_RT1_0501_2150.std
+
+[9 September 2013 11:15:44] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1505.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1505.std
+
+[9 September 2013 11:15:48] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_1ST_0501_2125.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_1ST_0501_2125.std
+
+[9 September 2013 11:15:51] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_PRETEST_0501_2315.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_PRETEST_0501_2315.std
+
+[9 September 2013 11:15:56] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_1ST_0501_1740.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_1ST_0501_1740.std
+
+[9 September 2013 11:15:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_EQC_RT1_0503_0540.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_EQC_RT1_0503_0540.std
+
+[9 September 2013 11:16:18] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_R1_B2_01.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_R1_B2_01.std
+
+[9 September 2013 11:16:21] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_PRE.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_PRE.std
+
+[9 September 2013 11:16:24] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N4N261P00','N4N261P00','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/BEA090051X_N4N261P00_EQC_1ST.std
+	Source: C:\MyDataPump\Customer_Spooling\BEA090051X_N4N261P00_EQC_1ST.std
+
+[9 September 2013 11:16:27] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1725.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1725.std
+
+[9 September 2013 11:16:28] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_RT1_0501_2150.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_RT1_0501_2150.std
+
+[9 September 2013 11:16:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1505.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1505.std
+
+[9 September 2013 11:16:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_1ST_0501_2125.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_1ST_0501_2125.std
+
+[9 September 2013 11:16:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = INSERT INTO ft_lot VALUES('N3N488','N3N488','ProductA',0,0,0)
+ERROR = TRIGGER command denied to user 'tempdb_test'@'%' for table 'ft_lot' QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_PRETEST_0501_2315.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_PRETEST_0501_2315.std
+
+[9 September 2013 11:44:18] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=88,NB_PARTS=100 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1725.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1725.std
+
+[9 September 2013 11:44:20] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=1,NB_PARTS=1 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_RT1_0501_2150.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_RT1_0501_2150.std
+
+[9 September 2013 11:44:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=0,NB_PARTS=74 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1505.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1505.std
+
+[9 September 2013 11:44:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=149,NB_PARTS=150 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_1ST_0501_2125.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_1ST_0501_2125.std
+
+[9 September 2013 11:44:28] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=66,NB_PARTS=100 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_PRETEST_0501_2315.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_PRETEST_0501_2315.std
+
+[9 September 2013 11:44:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=277,NB_PARTS=338 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_1ST_0501_1740.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_1ST_0501_1740.std
+
+[9 September 2013 11:44:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=2,NB_PARTS=2 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_EQC_RT1_0503_0540.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_EQC_RT1_0503_0540.std
+
+[9 September 2013 11:45:18] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=88,NB_PARTS=100 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1725.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1725.std
+
+[9 September 2013 11:45:19] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=1,NB_PARTS=1 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_RT1_0501_2150.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_RT1_0501_2150.std
+
+[9 September 2013 11:45:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=0,NB_PARTS=74 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_PRETEST_0501_1505.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_PRETEST_0501_1505.std
+
+[9 September 2013 11:45:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=149,NB_PARTS=150 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_EQC_1ST_0501_2125.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_EQC_1ST_0501_2125.std
+
+[9 September 2013 11:45:28] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=66,NB_PARTS=100 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_PRETEST_0501_2315.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_PRETEST_0501_2315.std
+
+[9 September 2013 11:45:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=277,NB_PARTS=338 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040235X_N3N488_1ST_0501_1740.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040235X_N3N488_1ST_0501_1740.std
+
+[9 September 2013 11:45:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=2,NB_PARTS=2 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_EQC_RT1_0503_0540.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_EQC_RT1_0503_0540.std
+
+[9 September 2013 11:45:39] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=148,NB_PARTS=150 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_EQC_1ST_0503_0515.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_EQC_1ST_0503_0515.std
+
+[9 September 2013 11:45:43] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=129,NB_PARTS=213 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040234X_N3N488_1ST_0503_0430.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040234X_N3N488_1ST_0503_0430.std
+
+[9 September 2013 11:47:29] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=690,NB_PARTS=1069 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040233X_N3N488_1ST_0501_1011.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040233X_N3N488_1ST_0501_1011.std
+
+[9 September 2013 11:47:45] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=592,NB_PARTS=965 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_4TH_0430_1230.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_4TH_0430_1230.std
+
+[9 September 2013 11:49:15] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=4197,NB_PARTS=5408 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 11:50:47] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=4197,NB_PARTS=5408 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 11:51:13] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=95,NB_PARTS=100 WHERE LOT_ID='NAS943P00'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_PRE_2011-11-24_12.48.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_PRE_2011-11-24_12.48.00.std
+
+[9 September 2013 11:58:27] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=4592,NB_PARTS=5883 WHERE LOT_ID='N3N488'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:05:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=29316,NB_PARTS=30970 WHERE LOT_ID='NAS943P00'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:07:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:08:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:18:05] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Error executing SQL query.
+QUERY = UPDATE ft_lot SET NB_PARTS_GOOD=23578,NB_PARTS=24077 WHERE LOT_ID='NAS942P00'
+ERROR = Column count doesn't match value count at row 1 QMYSQL: Unable to execute query
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110455X_NAS942P00_1ST_2011-11-21_22.28.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110455X_NAS942P00_1ST_2011-11-21_22.28.00.std
+
+[9 September 2013 12:19:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:20:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:25:10] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:26:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:27:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:28:29] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:32:50] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:32:51] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:33:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:34:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:35:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:35:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:35:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:35:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:35:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:38:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:39:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:40:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:40:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:40:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:40:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:40:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:41:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 12:41:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:42:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:43:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:43:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:43:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:43:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:43:38] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:43:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 12:43:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 12:43:59] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 12:44:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:45:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:46:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:46:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:46:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:46:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:46:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:46:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 12:46:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 12:46:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 12:47:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:48:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:49:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:49:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:49:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:49:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:49:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:49:52] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 12:49:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 12:49:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 12:50:27] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:51:07] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:52:38] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:52:39] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:52:40] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:52:40] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:52:42] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:53:00] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 12:53:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 12:53:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 12:53:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:54:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:55:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:55:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:55:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:55:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:55:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:55:51] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 12:55:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 12:55:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 12:56:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 12:57:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 12:58:44] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 12:58:45] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 12:58:48] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 12:58:52] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 12:59:00] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 12:59:18] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 12:59:20] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 12:59:21] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:00:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:01:04] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:02:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:02:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:02:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:02:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:02:38] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:02:56] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:02:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:02:59] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:03:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:04:03] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:05:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:05:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:05:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:05:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:05:38] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:05:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:05:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:05:59] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:06:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:07:10] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:08:40] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:08:41] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:08:42] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:08:42] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:08:43] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:09:03] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:09:04] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:09:05] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:09:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:10:04] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:11:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:11:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:11:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:11:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:11:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:11:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:11:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:11:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:12:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:13:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:14:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:14:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:14:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:14:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:14:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:14:51] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:14:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:14:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:15:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:16:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:17:29] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:17:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:17:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:17:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:17:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:17:51] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:17:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:17:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:18:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:19:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:20:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:20:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:20:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:20:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:20:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:20:52] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:20:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:20:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:21:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:22:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:23:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:23:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:23:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:23:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:23:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:23:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:23:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:23:56] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:24:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:25:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:26:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:26:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:26:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:26:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:26:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:26:51] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:26:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:26:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:27:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:28:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:29:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:29:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:29:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:29:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:29:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:29:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:29:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:30:00] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:30:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:31:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:32:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:32:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:32:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:32:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:32:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:32:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:32:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:32:56] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:33:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:34:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:35:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:35:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:35:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:35:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:35:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:35:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:35:56] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:35:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:36:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:37:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:38:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:38:30] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:38:31] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:38:32] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:38:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:38:51] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:38:53] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:38:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:39:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:40:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:41:33] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:41:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:41:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:41:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:41:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:41:55] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:41:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:41:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:42:26] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:43:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:44:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:44:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:44:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:44:37] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:44:39] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:44:57] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:44:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:45:00] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:45:29] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:46:12] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:47:58] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:48:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:48:05] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:48:08] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:48:12] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:48:39] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:48:43] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:48:46] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:49:34] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:50:20] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:52:11] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:52:15] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:52:19] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:52:23] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:52:27] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:52:49] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:52:52] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:52:54] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:53:27] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:54:04] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:55:35] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:55:36] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:55:38] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:55:39] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:55:40] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:55:59] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:56:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:56:03] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 13:56:28] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 13:57:05] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110458X_NAS943P00_2ND_2011-11-26_08.08.00.std
+
+[9 September 2013 13:59:00] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS941P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110457X_NAS941P00_1ST_2011-11-24_11.27.00.std
+
+[9 September 2013 13:59:01] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_R1_B2_01_2011-11-17_04.01.00.std
+
+[9 September 2013 13:59:02] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_PRE_2011-11-16_18.15.00.std
+
+[9 September 2013 13:59:03] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_RT1_2011-11-17_04.57.00.std
+
+[9 September 2013 13:59:04] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_EQC_1ST_2011-11-17_04.52.00.std
+
+[9 September 2013 13:59:22] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110452X_NAS943P00_1ST_2011-11-17_03.37.00.std
+
+[9 September 2013 13:59:24] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_R1_B2345_01_2011-11-15_20.46.00.std
+
+[9 September 2013 13:59:25] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[NAS943P00] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+	Source: C:\MyDataPump\Customer_Spooling\AEA110450X_NAS943P00_PRE_2011-11-15_14.40.00.std
+
+[9 September 2013 14:00:18] Insertion failed: Error in plugin: Company SQL Database [Plugin V2.01 B23]
+Some fields are invalid (This Lot[N3N488] was already inserted but with a different ProductName: ProductName already inserted = 'TMABCD', New ProductName = 'ProductA').
+	File: C:/Users/Set/Documents/TEMP_PROFILES/ServerProfile/CompanySemi/databases/myapp/Geneology_DB/ARA040232X_N3N488_2ND_0430_0410.std
+	Source: C:\MyDataPump\Customer_Spooling\ARA040232X_N3N488_2ND_0430_0410.std
+
+[9 September 2013 15:54:00] Task: Launching - Company Yield-Man - V7.0.12
+
+TEMP_SERVER_PROFILE loaded (C:\Users\Set\Documents\TEMP_PROFILES\ServerProfile)
+
+[9 September 2013 15:54:21] [Import Data] - Task was disabled. [Database Geneology DB not connected]
+
+[9 September 2013 16:19:01] Task: Closing - Company Yield-Man - V7.0.12
+
